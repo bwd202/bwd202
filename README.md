@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Pages:
-https://bwd202.github.io/tailwind/
-https://bwd202.github.io/signup-form/
-https://bwd202.github.io/dashboard/
+Pages: return 
+https://bwd202.github.io/tailwind/ return
+https://bwd202.github.io/signup-form/ return
+https://bwd202.github.io/dashboard/ return
 https://bwd202.github.io/flex-landing-page/
