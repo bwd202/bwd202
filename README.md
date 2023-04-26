@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Pages:
+https://bwd202.github.io/tailwind/
+https://bwd202.github.io/signup-form/
+https://bwd202.github.io/dashboard/
+https://bwd202.github.io/flex-landing-page/
