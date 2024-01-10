@@ -1,5 +1,4 @@
-
-### Portfolio:
+# Featured Projects
 
 - [tic-tac-toe game](https://bwd202.github.io/tic-tac-toe/)
 - [tailwind page](https://bwd202.github.io/tailwind/)
